@@ -1,0 +1,6 @@
+{
+  "name": "Cursor Pagination Lab",
+  "description": "An interactive playground demonstrating Cursor-Based Pagination vs OFFSET Pagination with Snapshot Consistency on 200k+ records, complete with a production-grade FastAPI and PostgreSQL codebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
